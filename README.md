@@ -1,0 +1,1 @@
+"Customer Churn Analysis using Python, SQL, and Power BI — performing EDA, feature engineering, data visualization, insights extraction, and creating interactive dashboards to understand customer behavior and retention patterns."
