@@ -41,7 +41,20 @@ Data Visualization	Matplotlib, Seaborn, Plotly
 Environment	Jupyter Notebook
 
 Statistical Analysis	Scipy, Statsmodels
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🖥️ Step 0: SQL Workbench – Data Understanding & Cleaning (Optional)
 
+Before Python analysis, the dataset was imported into MySQL Workbench for initial exploration and cleaning:
+
+Imported customer_churn.csv into a table customer_churn_data.
+
+Performed data understanding: checked row count, column types, unique values, and summary statistics.
+
+Conducted data cleaning: handled missing or blank values (e.g., updating empty TotalCharges to NULL).
+
+Explored basic patterns and metrics using SQL queries (e.g., churn counts, monthly charges).
+
+✅ Outcome: Gained a clean, validated dataset ready for Python-based feature engineering, EDA, and visualization
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📂 Dataset Information
 
