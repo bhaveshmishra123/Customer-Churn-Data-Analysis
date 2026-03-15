@@ -210,6 +210,24 @@ Services impact on churn
 Key KPIs: churn rate, total revenue, high-risk customers
 
 Enables interactive decision-making and reporting
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🎥 Dashboard Demo Video
+
+Watch the interactive Power BI dashboard demonstration for this project:
+
+▶️ https://youtu.be/YOUR_VIDEO_LINK
+
+This demo video showcases:
+
+• Customer churn analysis dashboard  
+• Churn rate and revenue KPIs  
+• Contract type and tenure-based churn insights  
+• Service usage impact on churn  
+• Customer segmentation and risk analysis  
+
+The dashboard enables interactive exploration of churn patterns and helps identify key factors influencing customer retention.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📁 Project Structure
 
