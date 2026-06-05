@@ -264,7 +264,7 @@ Name: Bhavesh Kumar Mishra
 
 Role: Data Analyst | Python Enthusiast | Power BI Specialist
 
-Connect: LinkedIn Profile
+Connect: www.linkedin.com/in/bhavesh-kumar-mishra-a99b67379
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🏁 Conclusion
 
